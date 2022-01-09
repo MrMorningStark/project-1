@@ -1,0 +1,58 @@
+.topnav{
+  background-color: black;
+  overflow:hidden;
+}
+.topnav a{
+  float: left;
+  margin-right: 10px;
+  text-decoration: none;
+  color: white;
+  padding: 18px 22px;
+  font-size: 19px;
+}
+.right{
+  float: right;
+}
+.wow1 .sm{
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+}
+.wow1{
+
+  float: right;
+  text-align: left;
+  display: inline-block;
+  padding-right: 52px;
+  padding-left: 20px;
+  margin-right: 134px;
+  line-height: 3;
+  visibility: hidden;
+}
+
+.wow2 .sm{
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+}
+.wow2{
+  float: right;
+  text-align: left;
+  display: inline-block;
+  padding-right: 55px;
+  padding-left: 29px;
+  line-height: 3;
+  visibility: hidden;
+}
+body{
+  background-color: #7C99AC;
+}
+h1{
+  text-align: left;
+  font-size: 10rem;
+  font-weight: bold;
+  font-family:sans-serif;
+  line-height: 1.2;
+}
